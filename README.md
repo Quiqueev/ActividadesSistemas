@@ -1,5 +1,7 @@
-# ActividadesSistemas
+# Actividades Sistemas
 5 Actividades Finales de Sistemas Inteligentes
+- Tic Tac Toe
+- Sudoku
 
 
 # Links
