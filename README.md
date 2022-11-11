@@ -1,4 +1,5 @@
 # Actividades Sistemas
+# Entrega 2 de Dic
 5 Actividades Finales de Sistemas Inteligentes
 - Tic Tac Toe
 - Sudoku
